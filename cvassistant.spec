@@ -9,7 +9,7 @@ Version:	2.0.0
 Release:	1
 Group:		Education
 License:	GPLv3
-URL:		http://sourceforge.net/projects/%{name}
+URL:		https://sourceforge.net/projects/%{name}
 Source0:	http://heanet.dl.sourceforge.net/project/%{name}/%{name}_%{version}.tar.bz2
 
 BuildRequires:	qt5-devel
